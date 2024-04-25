@@ -4,4 +4,4 @@ the 'Carer Manager Plus Administration Portal' has been restricted following the
 our collaboration with Carer Manager Plus Pty Ltd. 
 
 The final technical report, along with all progressive presentations and agile documentation
-from our team are available. NOTE: Presentation slides and final presentation must be downloaded
+from our team are available. NOTE: Presentation slides and final presentation must be downloaded.
